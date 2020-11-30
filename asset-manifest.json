@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Coding-Toy/static/css/main.1b05dd68.chunk.css",
+    "main.js": "/Coding-Toy/static/js/main.5fece9b7.chunk.js",
+    "main.js.map": "/Coding-Toy/static/js/main.5fece9b7.chunk.js.map",
+    "runtime-main.js": "/Coding-Toy/static/js/runtime-main.8e207ec5.js",
+    "runtime-main.js.map": "/Coding-Toy/static/js/runtime-main.8e207ec5.js.map",
+    "static/css/2.6cecdcb8.chunk.css": "/Coding-Toy/static/css/2.6cecdcb8.chunk.css",
+    "static/js/2.f390a00f.chunk.js": "/Coding-Toy/static/js/2.f390a00f.chunk.js",
+    "static/js/2.f390a00f.chunk.js.map": "/Coding-Toy/static/js/2.f390a00f.chunk.js.map",
+    "static/js/3.44a10cd2.chunk.js": "/Coding-Toy/static/js/3.44a10cd2.chunk.js",
+    "static/js/3.44a10cd2.chunk.js.map": "/Coding-Toy/static/js/3.44a10cd2.chunk.js.map",
+    "index.html": "/Coding-Toy/index.html",
+    "static/css/2.6cecdcb8.chunk.css.map": "/Coding-Toy/static/css/2.6cecdcb8.chunk.css.map",
+    "static/css/main.1b05dd68.chunk.css.map": "/Coding-Toy/static/css/main.1b05dd68.chunk.css.map",
+    "static/js/2.f390a00f.chunk.js.LICENSE.txt": "/Coding-Toy/static/js/2.f390a00f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e207ec5.js",
+    "static/css/2.6cecdcb8.chunk.css",
+    "static/js/2.f390a00f.chunk.js",
+    "static/css/main.1b05dd68.chunk.css",
+    "static/js/main.5fece9b7.chunk.js"
+  ]
+}
