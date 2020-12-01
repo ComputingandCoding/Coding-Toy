@@ -44,6 +44,10 @@ body {
   border-radius: 0 0 0.5rem 0.5rem;
   overflow: hidden;
   font-size: 1.3rem;
+  min-width: 480px;
+  max-width: 480px;
+  min-height: 262.2px;
+  max-height: 262.2px;
 }
 
 iframe html,
@@ -51,6 +55,7 @@ iframe body,
 iframe {
   min-height: 50vh;
   width: 100%;
+  background-color: #fff;
 }
 
 .editor-container.collapsed {
